@@ -1,0 +1,3 @@
+print('HELLO NAVEEN
+      MAKE THE GREAT WORLD WITH YOUR WEAPON'
+      )
