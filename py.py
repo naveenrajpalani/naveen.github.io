@@ -1,2 +1,6 @@
-print('HELLO NAVEEN MAKE THE GREAT WORLD WITH YOUR WEAPON'
-      )
+x=4
+y=8
+if x+y==12:
+  print("true")
+else:
+  print("false")
