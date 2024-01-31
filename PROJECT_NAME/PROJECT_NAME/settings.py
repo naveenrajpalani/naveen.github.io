@@ -31,6 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    "naveen",
     "django.contrib.admin",
     "django.contrib.auth",
     "django.contrib.contenttypes",
